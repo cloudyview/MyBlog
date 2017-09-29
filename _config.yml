@@ -7,7 +7,7 @@ title: 终身学习，终身践行
 subtitle: 戴军的成长记录
 description:
 author: 戴军
-language: zh_CN
+language: zh-Hans
 timezone: 
 
 # URL
@@ -72,7 +72,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-next ## hexo-theme-paperbox ## hexo-theme-icarus ## landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
