@@ -1,6 +1,7 @@
 ---
 title: 给孩子选科普书，先从他的一个问题开始
 date: 2026-10-03 22:00:00
+updated: 2026-10-04 22:26:59
 categories: 科普阅读
 tags: [儿童科普, 亲子阅读]
 ---
@@ -39,9 +40,11 @@ tags: [儿童科普, 亲子阅读]
 
 ## 延伸阅读
 
-- [图书专题：真实封面、四册目录与完整推荐名单](https://sprout-culture.com/books/campus-three-kingdoms-tech/)
+- [图书专题：真实封面、四册目录与完整推荐名单](https://books.sprout-culture.com/)
 
-- [十种各有侧重的儿童科普读物：按孩子的兴趣选](https://sprout-culture.com/books/campus-three-kingdoms-tech/ten-science-books/)
+- [十种各有侧重的儿童科普读物：按孩子的兴趣选](https://books.sprout-culture.com/ten-science-books/)
+
+- [孩子喜欢机器人和人工智能，怎么选科普书？](https://books.sprout-culture.com/robot-ai-science-books/)
 
 - [上海交通大学出版社提供的作品介绍与目录](https://read.douban.com/ebook/629465342/)
 
